@@ -4,3 +4,5 @@ Following Tsoding Daily minicel program
 
 -	build setup
 	-	compile and auto-run 
+
+-	get/read/parse/write the input file to console

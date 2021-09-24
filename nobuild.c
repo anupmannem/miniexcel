@@ -12,7 +12,7 @@ int main(int argc, char **argv)
 	{
 		if(strcmp(argv[1],"run") == 0)
 		{
-			CMD(".\\miniexcel");
+			CMD(".\\miniexcel", "input.csv");
 		}
 		else
 		{
